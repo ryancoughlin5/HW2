@@ -1,2 +1,32 @@
 h1{color:white}
 body{color: gray; background-color: #052b50}
+
+.pic {
+	float: left;
+	border-style: solid;
+	border-width: 10px;
+	border-color: white;
+	margin-right: 50px;
+	
+}
+
+.wrap{
+	margin: 0 auto;
+	width: 70%
+}
+
+.resume{
+	text-align:left;
+	border-style: solid;
+	border-color: white;
+	border-width: 3px;
+	padding: 10px;
+}
+
+.date{
+	clear: left;
+    float: left;
+    padding-top: 2px;
+    width: 125px;
+}
+}
