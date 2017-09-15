@@ -1,9 +1,14 @@
-h1{color:white}
+h1{color:white; text-align: center}
 body{color: gray; background-color: #052b50}
 h3 {color:white;background-color: black; padding:10px}
 
 	
+.aboutme{
+	font-size: 24;
+	color: white;
+	background-color: transparent;
 	
+}	
 .leftpic {
 	float: left;
 	border-style: solid;
@@ -38,8 +43,5 @@ h3 {color:white;background-color: black; padding:10px}
 }
 
 .links{
-	margin: 0 auto;
-    padding-bottom: 40px;
-	padding-top:70px;
-    width: 300px;
-	
+	text-align:center
+}
